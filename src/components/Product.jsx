@@ -61,7 +61,7 @@ const Product = () => {
       </div>
 
       <div className="relative z-10 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8 px-8 md:px-12 pb-20">
-        <Card img="./uploads/jort.png" name="jort boxer" price="2,900 THB" />
+        <Card img="/uploads/jort.png" name="jort boxer" price="2,900 THB" />
         <Card name="Metallic Baggy Jeans" price="1,850 THB" />
         <Card name="Silver Mesh T-Shirt" price="990 THB" />
         <Card name="Kouragez Cyber Cap" price="750 THB" />
